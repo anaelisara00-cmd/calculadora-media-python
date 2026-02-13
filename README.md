@@ -1,4 +1,4 @@
-# calculadora-media-python
+Calculadora (Python) – Projeto desenvolvido de forma independente para praticar operações matemáticas, funções e estrutura de programação em Python.
 ## Sobre o Projeto
 Este projeto foi desenvolvido em Python com o objetivo de praticar conceitos fundamentais de programação. O programa solicita o nome do aluno e três notas, calcula a média aritmética e informa se o aluno foi aprovado ou reprovado com base na média final.
 
